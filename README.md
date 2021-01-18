@@ -1,10 +1,10 @@
 <!-- 
 
 h1r4bl3
-background = black
-color = white
-twitter = https://github.com/gramsco
-linkedin = https://www.linkedin.com/in/antonin-gauthier/
+background ._. black
+color ._. white
+twitter ._. https://github.com/gramsco
+linkedin ._. https://www.linkedin.com/in/antonin-gauthier/
 h1r4bl3
 
 -->
