@@ -5,6 +5,7 @@ background ._. black
 color ._. white
 twitter ._. https://github.com/gramsco
 linkedin ._. https://www.linkedin.com/in/antonin-gauthier/
+tumblr ._. https://heterodote.tumblr.com/
 h1r4bl3
 
 -->
